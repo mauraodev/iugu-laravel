@@ -1,6 +1,6 @@
 <?php
 
-namespace unaspbr;
+namespace mauraodev;
 
 /**
  * Iugu ─ Wraps iugu-php to be used on Laravel
