@@ -1,0 +1,23 @@
+{
+    "name": "unaspbr/iugu-laravel",
+    "description": "Wrapper do Iugu para ser usado no Laravel",
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Mateus Felipe C. C. Pinto",
+            "email": "mateusfccp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+	"php": ">=7.0.33",
+        "unaspbr/iugu-php": "^0.1"
+    },
+    "autoload": {
+	"psr-4": {
+	    "unaspbr\\": "src/"
+	}
+    }
+}
